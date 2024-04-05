@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Flask, API, ML.<br>👯I'm seeking collaboration on innovative projects.<br>🤝I'm looking for help with System Design Concepts.<br>💼Web Application Developer and a Competitive Programmer.<br>🌱Enthusiast in Data Science and ML-AI.<br>Contact me : devrajbhatade099@gmail.com 
+🔭I'm currently working on Django, FastApi, Flask, API, ML.<br>👯I'm seeking collaboration on innovative projects.<br>🤝I'm looking for help with System Design Concepts.<br>💼Web Application Developer and a Competitive Programmer.<br>🌱Enthusiast in Data Science and ML-AI.<br>Contact me : devrajbhatade099@gmail.com 
 
 
 ## 🌐 Socials:
